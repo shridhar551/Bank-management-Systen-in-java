@@ -27,17 +27,13 @@ A simple **Bank Management System** developed in **Java** that demonstrates the 
 ---
 
 ## 📂 Project Structure
-
 ```
 BankManagementSystem/
 │
-├── src/
-│   └── encapsulation/
-│       ├── bank.java
-│       └── Bankinh_system.java
-│
+├── Bankinh_system.java
 └── README.md
 ```
+
 
 ---
 
